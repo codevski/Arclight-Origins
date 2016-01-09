@@ -1,6 +1,10 @@
 # Arclight-Origins
 
-A Mobile Game written in the Unity Engine
+A Mobile Game written in the Unity Engine. It is a 2D slider adventure game that utilizes on screen touch Joystick.
+
+## Story
+
+TBA
 
 ## Installation
 
