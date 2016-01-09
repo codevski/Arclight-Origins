@@ -1,4 +1,4 @@
-# Arclight-Origins
+# Arclight: Origins
 
 A Mobile Game written in the Unity Engine. It is a 2D slider adventure game that utilizes on screen touch Joystick.
 
@@ -10,8 +10,7 @@ TBA
 
 At the moment it is only available for android and not on the store yet.
 
-![APK Download](https://github.com/techabyte/Arclight-Origins/blob/master/readme/download_apk.png)
-Format: ![Alt Text](#)
+Please view our Wiki on how to download and install **Arclight: Origins**
 
 ## Usage
 
