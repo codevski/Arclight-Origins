@@ -10,7 +10,7 @@ TBA
 
 At the moment it is only available for android and not on the store yet.
 
-Please view our Wiki on how to download and install **Arclight: Origins**
+Please view our [Wiki](https://github.com/techabyte/Arclight-Origins/wiki) on how to download and install **Arclight: Origins**
 
 ## Usage
 
