@@ -11,6 +11,7 @@ TBA
 At the moment it is only available for android and not on the store yet.
 
 ![APK Download](https://github.com/techabyte/Arclight-Origins/blob/master/readme/download_apk.png)
+Format: ![Alt Text](#)
 
 ## Usage
 
